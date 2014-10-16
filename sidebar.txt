@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bwi:home|Door43 (bwi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bwi|d43-bwi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bwi/archive/master.zip|d43-bwi.zip]]
+
+**Recent Changes**
+{{changes>ns = bwi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bwi|Ethnologue data]]
+
